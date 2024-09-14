@@ -40,7 +40,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 Colors.black,
                 Colors.blueGrey,
               ],
-            )
+            ),
         ),
         child: ListView.builder(
           itemCount: courses.length,
