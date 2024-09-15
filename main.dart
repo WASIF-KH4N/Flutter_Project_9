@@ -72,7 +72,8 @@ class _MyHomePageState extends State<MyHomePage> {
                   child: ListTile(
                     title: Text(courses[index]),
                   ),
-                ));
+                ),
+             );
           },
         ),
       ),
