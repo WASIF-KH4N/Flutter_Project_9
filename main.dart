@@ -28,7 +28,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Center(child: Text("DISMISSIBLE APP",style: TextStyle(fontSize: 22,fontWeight: FontWeight.bold,color: Colors.black),)),
+          title: Center(child: Text("DISMISSIBLE APP",style: TextStyle(fontSize: 23,fontWeight: FontWeight.bold,color: Colors.black),)),
           backgroundColor: Colors.blueGrey,
         ),
       body: Container(
